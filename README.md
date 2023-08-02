@@ -1,16 +1,36 @@
-### Hi there 👋
+## 👋 안녕하세요! IT 서비스 기획 꿈나무 조해민입니다.
 
-<!--
-**chohaeminn/chohaeminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![깃허브 프로필 사진](https://ifh.cc/g/k7yS9x.jpg)
 
-Here are some ideas to get you started:
+저는 경북대학교 컴퓨터학부에 재학 중인 학생입니다. 
+컴퓨터전공이지만 개발보다는 IT 서비스 기획에 흥미를 느껴서 창업동아리, 창업해커톤에 적극적으로 참여하며 서비스 기획 역량을 키워왔습니다.
+후에 IT 직군에서 PM으로 일하고 싶습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 활동
+- [MLSA(마이크로소프트 학생홍보대사)](https://blog.naver.com/chohaeminn/223161878096)로 2023년부터 활동하고 있습니다.
+- [삼성스마트싱스 컴페니언즈](https://blog.naver.com/chohaeminn/223157642761)로 2023년부터 활동하고 있습니다.
+
+
+### 🏆 수상경력
+- MS 주최 해커그라운드 대상 MS 사장상 수상
+- 경북대학교 SW 교육원 주최 창업해커톤 최우수상 수상
+- 수성미래교육재단 수성미래인재장학생 창업형 선정
+
+### 📌 프로젝트
+1. **실시간 택시 공유서비스 'taxna pm' (2022.07-now)**
+   - 출도착지가 비슷한 택시사용자를 매칭해주어 택시비를 절약하고, 환경을 지키는 어플리케이션을 기획했습니다.
+
+2. **대구시 전기차 인프라 구축 서비스 'deps' 기획 (2023.06-now)**
+   - 대구시의 카센터에 전기차 충전기를 보급해서 대구시의 전기차 인프라를 구축하는 서비스를 기획했습니다.
+
+3. **초보 사업자를 위한 통합 ERP 서비스 'barp' 기획 (2023.03-08)**
+   - 1인 쇼핑몰 사업자를 위한 통합 ERP 어플리케이션을 기획했습니다.
+
+
+### 🤝 봉사활동
+- 제가 타인에게 도움이 될 때 행복을 느껴, 틈틈이 봉사를 해 현재 150시간의 교육봉사활동이 있습니다.
+1. [삼성드림클래스 블로그](https://blog.naver.com/chohaeminn/223010924712)
+   - 삼성에서 주관하는 삼성드림클래스 운영멘토로, 사회배려계층을 대상으로 매 주 멘토링 활동을 진행하고 있습니다.
+
+2. [재능봉사 캠프 블로그](https://blog.naver.com/chohaeminn/223013659474)
+   - 한국장학재단에서 주관하는 재능봉사캠프 팀장으로, 사회배려계층을 대상으로 4차산업혁명과 IT 기술을 주제로 캠프를 방학마다 진행하고 있습니다.
